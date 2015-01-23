@@ -1,0 +1,23 @@
+{
+  "name": "snailfwd",
+  "version": "0.0.1",
+  "description": "snailfwd",
+  "main": "index.js",
+  "bin": {
+    "snailfwd": "bin/snailfwd"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "snailfwd"
+  ],
+  "author": "senro",
+  "license": "BSD",
+  "dependencies": {
+    "fis": "^1.8.13",
+    "fis-parser-marked": "0.0.5"
+  }
+}
