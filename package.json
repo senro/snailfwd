@@ -14,10 +14,20 @@
     "fis",
     "snailfwd"
   ],
+  "homepage":"https://github.com/senro/snailfwd/",
+  "repository": {
+     "type": "git",
+     "url": "git@github.com:senro/snailfwd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/senro/snailfwd/issues"
+  },
   "author": "senro",
   "license": "BSD",
   "dependencies": {
     "fis": "^1.8.13",
-    "fis-parser-marked": "0.0.5"
+    "fis-parser-marked": "0.0.5",
+    "snailfwd-parser-component":"0.0.1",
+    "snailfwd-postprocessor-jswrapper":"0.0.1"
   }
 }
