@@ -1,2 +1,0 @@
-# snailfwd
-snail-team snailfwd
