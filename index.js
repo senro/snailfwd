@@ -9,5 +9,4 @@ fis.require.prefixes = [ 'snailfwd', 'fis' ];
 
 //把前面的配置都写在这里统一管理
 //项目中就不用再写了
-
 //fis.config.set('modules.preprocessor.tpl', require('./plugins/preprocessor/parseWidget.js'));
