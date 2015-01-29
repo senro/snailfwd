@@ -1,6 +1,6 @@
 {
   "name": "snailfwd",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "snailfwd",
   "main": "index.js",
   "bin": {
@@ -27,7 +27,7 @@
   "dependencies": {
     "fis": "^1.8.13",
     "fis-parser-marked": "0.0.5",
-    "snailfwd-parser-component":"0.0.1",
-    "snailfwd-postprocessor-jswrapper":"0.0.1"
+    "snailfwd-parser-component": "0.0.6",
+    "snailfwd-postprocessor-jswrapper": "0.0.4"
   }
 }
